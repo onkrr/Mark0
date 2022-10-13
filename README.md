@@ -1,5 +1,6 @@
 # Mark0
-The First
 
+Hacktober fest 2022:
 
-What First?, its the zeroth.
+Resources:
+https://hacktoberfest.com/
